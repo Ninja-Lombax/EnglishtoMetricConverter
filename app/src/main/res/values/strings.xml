@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">English to Metric Converter</string>
+    <string name="convert_type">What type of conversion would you like to do?</string>
+    <string name="input">Please insert a number</string>
+    <string name="prompt">Conversion Units</string>
+    <string-array name="txtConversion">
+        <item>Yards to Meters</item>
+        <item>Miles to Kilometers</item>
+        <item>Inches to Centimeters</item>
+        <item>MPH to KM/H</item>
+        <item>Gallons to Liters</item>
+        <item>Pounds to Kilograms</item>
+    </string-array>
+    <string name="Convert">Convert</string>
+
+</resources>
